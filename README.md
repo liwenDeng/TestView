@@ -20,3 +20,4 @@ json {
 
 ###工具
 - 1.可以把任何网站转换成 JSON API [wrapapi](https://wrapapi.com)
+- 2.避免输入框被键盘遮挡[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)
